@@ -7,3 +7,4 @@ var3 = random.randint(0, 24)
 #print('Os valores são: ', var, ', ', var2, ', ', var3)
 #print('Os valores são: %s, %s, %s ' % (var, var2, var3))
 print(f'Os valores são: {var}, {var2}, {var3}')
+andre

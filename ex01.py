@@ -16,4 +16,3 @@ elif media >= 5 and media < 7:
     print(f'\n{nome} ficou de recuperação em {curso} com uma média de: {media} FAÇA O EXAME FINAL!!!')
 else:
     print(f'\n{nome} não passou em {curso} com uma média de: {media} ESTUDE MAIS!!!')
-input()
